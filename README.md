@@ -3,7 +3,7 @@ This is a a Command Line application todo list in python - Todo list is a basic 
 
 Basic Functions of todo list are:
 
-Add a new todo
-Delete a todo
-Edit a todo
-Display All todo
+* Add a new todo
+* Delete a todo
+* Edit a todo
+* Display All todo
